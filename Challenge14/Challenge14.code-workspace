@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../NU-VIRT-FSF-PT-10-2022-U-LOLC/NU-VIRT-FSF-PT-10-2022-U-LOLC/14-MVC/01-Activities/09-Ins_Handlebars-FE-Logic/seeds"
+		},
+		{
+			"path": "../NU-VIRT-FSF-PT-10-2022-U-LOLC/NU-VIRT-FSF-PT-10-2022-U-LOLC/14-MVC/01-Activities/09-Ins_Handlebars-FE-Logic/public"
+		},
+		{
+			"path": "../NU-VIRT-FSF-PT-10-2022-U-LOLC/NU-VIRT-FSF-PT-10-2022-U-LOLC/14-MVC/01-Activities/09-Ins_Handlebars-FE-Logic/controllers"
+		},
+		{
+			"path": "../NU-VIRT-FSF-PT-10-2022-U-LOLC/NU-VIRT-FSF-PT-10-2022-U-LOLC/14-MVC/01-Activities/09-Ins_Handlebars-FE-Logic/views"
+		},
+		{
+			"path": "../NU-VIRT-FSF-PT-10-2022-U-LOLC/NU-VIRT-FSF-PT-10-2022-U-LOLC/14-MVC/01-Activities/09-Ins_Handlebars-FE-Logic/node_modules"
+		},
+		{
+			"path": "../NU-VIRT-FSF-PT-10-2022-U-LOLC/NU-VIRT-FSF-PT-10-2022-U-LOLC/14-MVC/01-Activities/09-Ins_Handlebars-FE-Logic/models"
+		}
+	],
+	"settings": {}
+}
